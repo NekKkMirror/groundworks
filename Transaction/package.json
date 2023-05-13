@@ -1,0 +1,11 @@
+{
+  "name": "Transaction",
+  "version": "1.0.0",
+  "description": "Transaction",
+  "main": "index.js",
+  "author": "nik-rybak",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  }
+}
